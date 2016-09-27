@@ -1,0 +1,30 @@
+<!-- hide-tab-bar is a directive in directives.js to hide the Tab bar on the screen -->
+<!-- hide-nav-bar hides the top bar of the screen-->
+<ion-view hide-tab-bar hide-nav-bar="true">
+	<!-- ADD UP TOP   -->
+  <ion-content>
+	  <section class="splash">
+	    <a href="#/270/states" ng-click="chooseParty('democrat')">
+			<article class="democrat" >
+				<h2>Democrat</h2>
+			</article>
+		</a>
+		 
+	  	<article>
+			<div>
+				<h1>{{appName}}</h1>  
+				<p>Choose a party</p>
+			</div>
+	  	</article>
+		 
+		<a href="#/270/states" ng-click="chooseParty('republican')">
+			<article class="republican" >
+				<h2>Republican</h2>
+			</article>
+		</a>
+	  </section>	  
+	  <footer id="footer">
+	  	<p>&copy; Erick Sauri 2016</p>
+	  </footer>
+  </ion-content>
+</ion-view>

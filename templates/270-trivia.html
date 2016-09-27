@@ -1,0 +1,29 @@
+<!-- Change Title -->
+<ion-view view-title="{{trivia.category}}" hide-nav-bar="true" can-swipe-back="false">
+  <ion-content>	  
+	  <!-- -->
+	  <header id="header">
+	  	<h3>{{trivia.category}}</h3>
+	  </header>
+	  <section class="padding trivia">
+			<section class="card" id="trivia-correct">
+				<i class="ion-checkmark-round"></i>
+				<h3>Congratulations</h3>
+				<h4>Your score increases by {{card.points}}%!</h4>
+				<!--<button ng-click="goBack()">Continue</button>-->
+			</section>  
+			<section class="card" id="trivia-incorrect">
+				<i class="ion-close-round"></i>
+				<h3>Wrong answer!</h3>
+				<h4>Sorry you don't get any points.</h4>
+				<!--<button ng-click="goBack()">Continue</button>-->
+			</section>  
+		  <section class="card" id="trivia-question">
+				<h4>{{trivia.question}}</h4>
+			</section>		
+		 <section id="answers">
+			  <button ng-repeat="a in answers" class="card trivia-answer" ng-click="answer($event, {{a.bool}})">{{a.answer}}</button>
+		 </section>		  
+	  </section>
+  </ion-content>
+</ion-view>

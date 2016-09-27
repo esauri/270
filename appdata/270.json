@@ -1,0 +1,1463 @@
+{
+	"states" : [
+        {
+            "name": "Colorado",
+            "id" : "colorado",
+            "num": 0,
+            "delegates": 9,
+            "icon": "map-us-co",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Florida",
+            "id" : "florida",
+            "num": 1,
+            "delegates": 29,
+            "icon": "map-us-fl",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Iowa",
+            "id" : "iowa",
+            "num": 2,
+            "delegates": 6,
+            "icon": "map-us-ia",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Nevada",
+            "id" : "nevada",
+            "num": 3,
+            "delegates": 6,
+            "icon": "map-us-nv",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "New Hampshire",
+            "id" : "new-hampshire",
+            "num": 4,
+            "delegates": 4,
+            "icon": "map-us-nh",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "North Carolina",
+            "id" : "north-carolina",
+            "num": 5,
+            "delegates": 15,
+            "icon": "map-us-nc",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Ohio",
+            "id" : "ohio",
+            "num": 6,
+            "delegates": 18,
+            "icon": "map-us-oh",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Pennsylvania",
+            "id" : "pennsylvania",
+            "num": 7,
+            "delegates": 20,
+            "icon": "map-us-pa",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Virginia",
+            "id" : "virginia",
+            "num": 8,
+            "delegates": 13,
+            "icon": "map-us-va",
+            "score": 0,
+            "rivalScore": 0
+        },
+        {
+            "name": "Wisconsin",
+            "id" : "wisconsin",
+            "num": 9,
+            "delegates": 10,
+            "icon": "map-us-wi",
+            "score": 0,
+            "rivalScore": 0
+        }	
+    ],
+	"colorado": [
+		{
+			"id" : 0,
+			"points": 34,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 22,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 22,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 3,
+			"points": 11,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "half-width"		
+		},
+		{
+			"id" : 4,
+			"points": 11,
+			"difficulty": "easy",
+			"width": "half-width"		
+		}
+	],    
+    "florida": [ 
+        {
+			"id" : 0,
+			"points": 28,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 27,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 24,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 3,
+			"points": 8,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 4,
+			"points": 6,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 5,
+			"points": 4,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+        {
+			"id" : 6,
+			"points": 3,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		}
+    ],	
+    "iowa" :[
+		{
+			"id" : 0,
+			"points": 23,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 18,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 15,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 3,
+			"points": 13,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 4,
+			"points": 11,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 5,
+			"points": 9,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 6,
+			"points": 6,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 7,
+			"points": 4,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 8,
+			"points": 1,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		}
+	],    
+    "nevada": [ 
+        {
+			"id" : 0,
+			"points": 30,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 22,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 2,
+			"points": 19,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 3,
+			"points": 17,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 4,
+			"points": 6,
+			"difficulty": "easy",
+			"width": "third-width"		
+		},
+		{
+			"id" : 5,
+			"points": 4,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		},
+		{
+			"id" : 6,
+			"points": 2,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		}
+    ],
+    "north-carolina": [
+        {
+			"id" : 0,
+			"points": 25,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 18,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 17,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 3,
+			"points": 15,
+			"difficulty": "easy",
+			"width": "third-width"		
+		},
+		{
+			"id" : 4,
+			"points": 13,
+			"difficulty": "easy",
+			"width": "third-width"		
+		},
+		{
+			"id" : 5,
+			"points": 12,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		}
+    ],    
+    "new-hampshire": [    
+        {
+			"id" : 0,
+			"points": 19,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 1,
+			"points": 17,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 14,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 3,
+			"points": 12,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 4,
+			"points": 11,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 5,
+			"points": 9,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		},
+		{
+			"id" : 6,
+			"points": 9,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		},
+		{
+			"id" : 7,
+			"points": 9,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "third-width"		
+		}
+    ],
+    "ohio": [ 
+        {
+			"id" : 0,
+			"points": 26,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 18,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 2,
+			"points": 16,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 3,
+			"points": 16,
+			"difficulty": "medium",
+			"width": "third-width"		
+		},
+		{
+			"id" : 4,
+			"points": 9,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 5,
+			"points": 8,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 6,
+			"points": 4,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 7,
+			"points": 3,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "quarter-width"		
+		}
+    ],
+    "pennsylvania": [ 
+        {
+			"id" : 0,
+			"points": 15,
+			"difficulty": "hard",
+			"width": "third-width"		
+		},
+		{
+			"id" : 1,
+			"points": 13,
+			"difficulty": "hard",
+			"width": "third-width"		
+		},
+		{
+			"id" : 2,
+			"points": 12,
+			"difficulty": "hard",
+			"width": "third-width"		
+		},
+		{
+			"id" : 3,
+			"points": 11,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 4,
+			"points": 10,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 5,
+			"points": 10,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+        {
+			"id" : 6,
+			"points": 9,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 7,
+			"points": 8,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 8,
+			"points": 5,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 9,
+			"points": 4,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 10,
+			"points": 3,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		}
+    ],
+    "virginia": [ 
+
+        {
+			"id" : 0,
+			"points": 18,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 1,
+			"points": 15,
+			"difficulty": "hard",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 12,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 3,
+			"points": 10,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 4,
+			"points": 9,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 5,
+			"points": 9,
+			"difficulty": "medium",
+			"width": "quarter-width"		
+		},
+        {
+			"id" : 6,
+			"points": 8,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 7,
+			"points": 7,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 8,
+			"points": 6,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 9,
+			"points": 6,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		}
+    ],
+    "wisconsin" :[
+		{
+			"id" : 0,
+			"points": 30,
+			"difficulty": "hard",
+			"width": "full-width"		
+		},
+		{
+			"id" : 1,
+			"points": 15,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 2,
+			"points": 15,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 3,
+			"points": 10,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 4,
+			"points": 10,
+			"difficulty": "medium",
+			"width": "half-width"		
+		},
+		{
+			"id" : 5,
+			"points": 5,
+			"difficulty": "easy",
+			"category": "state",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 6,
+			"points": 5,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 7,
+			"points": 5,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		},
+		{
+			"id" : 8,
+			"points": 5,
+			"difficulty": "easy",
+			"width": "quarter-width"		
+		}
+	],
+	"easy":[
+				{
+					"id" : 0,
+					"category" : "History",
+					"question": "From what country did the United States obtain it's independence from?",
+					"hint": "That country's primary language is also English.",
+					"wrongOne": "Spain",
+					"wrongTwo": "Canada",
+					"wrongThree": "France",		
+					"answer": "Great Britain"
+				},
+				{
+					"id" : 1,
+					"category" : "People",
+					"question": "Who was the first President of the United States?",
+					"hint": "He is featured in the $1 bill.",
+					"wrongOne": "Abraham Lincoln",
+					"wrongTwo": "Thomas Jefferson",
+					"wrongThree": "Alexander Hamilton",		
+					"answer": "George Washington"	
+				},
+				{
+					"id" : 2,
+					"category" : "Locations",
+					"question": "Where is the White House located?",
+					"hint": "The place is not a state.",
+					"wrongOne": "Pennsylvania",
+					"wrongTwo": "New York",
+					"wrongThree": "Washington",		
+					"answer": "Washington D.C."			
+				},
+				{
+					"id" : 3,
+					"category" : "Government",
+					"question": "Which of the following is not a branch of the United State's government?",
+					"hint": "Does the United States have a king or queen?",
+					"wrongOne": "Executive",
+					"wrongTwo": "Legislative",
+					"wrongThree": "Judicial",		
+					"answer": "Royal"	
+				},
+				{
+					"id" : 4,
+					"category" : "History",
+					"question": "This country had also undergone a revolution around the same time the United States had.",
+					"hint": "Does the United States have a king or queen?",
+					"wrongOne": "Mexico",
+					"wrongTwo": "Canada",
+					"wrongThree": "Great Britain",		
+					"answer": "France"	
+				},
+				{
+					"id" : 5,
+					"category" : "Locations",
+					"question": "Which of the following is a state?",
+					"hint": "It shares the name of the first President of the United States.",
+					"wrongOne": "Puerto Rico",
+					"wrongTwo": "Guam",
+					"wrongThree": "Washington D.C.",		
+					"answer": "Washington"	
+				},
+				{
+					"id" : 6,
+					"category" : "Government",
+					"question": "How many states make up the United States of America?",
+					"hint": "There is a star for each state in the United States flag.",
+					"wrongOne": "48",
+					"wrongTwo": "13",
+					"wrongThree": "51",		
+					"answer": "50"	
+				},
+				{
+					"id" : 7,
+					"category" : "History",
+					"question": "When did the United States declare its independence?",
+					"hint": "The national holiday Independence Day commemorates it.",
+					"wrongOne": "January 1st",
+					"wrongTwo": "July 25th",
+					"wrongThree": "September 3rd",		
+					"answer": "July 4th"	
+				},
+				{
+					"id" : 8,
+					"category" : "Government",
+					"question": "What are the two major parties in the United States",
+					"hint": "They're on the first screen of this app!",
+					"wrongOne": "Know-Nothing and Southern Democrat",
+					"wrongTwo": "Progressive and Republican",
+					"wrongThree": "Democrat and Whig",		
+					"answer": "Democrat and Republican"        
+				},
+				{
+					"id" : 9,
+					"category" : "People",
+					"question": "Who served more than two terms as President?",
+					"hint": "He served during the Great Depression and World War II.",
+					"wrongOne": "George Washington",
+					"wrongTwo": "Ronald Reagan",
+					"wrongThree": "Theodore Roosevelt",		
+					"answer": "Franklin D. Roosevelt"        
+				},
+				{
+					"id" : 10,
+					"category" : "People",
+					"question": "Who was both the 22nd and 24th President of the United States?",
+					"hint": "His last name is also the name of a city in Ohio.",
+					"wrongOne": "Ulysses S. Grant",
+					"wrongTwo": "Theodore Roosevelt",
+					"wrongThree": "Franklin D. Roosevelt",		
+					"answer": "Grover Cleveland"        
+				},
+				{
+					"id" : 11,
+					"category" : "People",
+					"question": "Who was the first President to have lived in the White House?",
+					"hint": "His son would later become President.",
+					"wrongOne": "John Quincy Adams",
+					"wrongTwo": "Thomas Jefferson",
+					"wrongThree": "George Washington",		
+					"answer": "John Adams"        
+				},
+				{
+					"id" : 12,
+					"category" : "Government",
+					"question": "How was the Vice President determined before the passing of the 12th Amendment?",
+					"hint": "",
+					"wrongOne": "Appointed by Congress",
+					"wrongTwo": "The Presidential candidate who won the popular vote",
+					"wrongThree": "Appointed by the President",		
+					"answer": "The Presidential candidate who received the second-largest number of votes in the electoral college"        
+				},
+				{
+					"id" : 13,
+					"category" : "People",
+					"question": "Who signed the Civil Rights Act that extended the rights of emancipated slaves?",
+					"hint": "They're on the first screen of this app!",
+					"wrongOne": "Lyndon B. Johnson",
+					"wrongTwo": "Abraham Lincoln",
+					"wrongThree": "Andrew Johnson",		
+					"answer": "Ulysses S. Grant"        
+				},
+				{
+					"id" : 14,
+					"category" : "Government",
+					"question": "The 15th Amendment prohibited what?",
+					"hint": "",
+					"wrongOne": "The President to serve more than two terms.",
+					"wrongTwo": "Slavery",
+					"wrongThree": "The selling and consumption of alcohol.",		
+					"answer": "Denying citizens the right to vote based on race, color, or previous condition of servitude."        
+				},
+				{
+					"id" : 15,
+					"category" : "History",
+					"question": "The Treaty of Ghent ended which war?",
+					"hint": "",
+					"wrongOne": "Mexican-American War",
+					"wrongTwo": "Civil War",
+					"wrongThree": "American Revolutionary War",		
+					"answer": "War of 1812"        
+				},
+				{
+					"id" : 16,
+					"category" : "History",
+					"question": "What is the national anthem of the United States?",
+					"hint": "",
+					"wrongOne": "God Bless America",
+					"wrongTwo": "America",
+					"wrongThree": "Born in the USA",		
+					"answer": "The Star-Spangled Banner"        
+				},
+				{
+					"id" : 17,
+					"category" : "Locations",
+					"question": "What is the highest point in the United States?",
+					"hint": "Its name was recently changed from Mount McKinley.",
+					"wrongOne": "Mount Rushmore",
+					"wrongTwo": "Mount Whiteface",
+					"wrongThree": "Mount Everest",		
+					"answer": "Denali"        
+				},
+				{
+					"id" : 18,
+					"category" : "People",
+					"question": "Who was the first President born in the United States?",
+					"hint": "",
+					"wrongOne": "Andrew Jackson",
+					"wrongTwo": "Thomas Jefferson",
+					"wrongThree": "George Washington",		
+					"answer": "Martin van Buren"        
+				},
+				{
+					"id" : 19,
+					"category" : "People",
+					"question": "Which former President was appointed by his successor to be the Chief Justice of the Supreme Court?",
+					"hint": "",
+					"wrongOne": "Theodore Roosevelt",
+					"wrongTwo": "Woodrow Wilson",
+					"wrongThree": "Warren G. Harding",		
+					"answer": "William H. Taft"        
+				},
+				{
+					"id" : 20,
+					"category" : "Locations",
+					"question": "Which was the last capital city of the Confederate States of America?",
+					"hint": "",
+					"wrongOne": "Montgomery, Alabama",
+					"wrongTwo": "Savannah, Georgia",
+					"wrongThree": "Columbia, South Carolina",		
+					"answer": "Richmond, Virginia"        
+				},
+				{
+					"id" : 21,
+					"category" : "People",
+					"question": "Who was the President of the Confederate States of America?",
+					"hint": "",
+					"wrongOne": "Stephen Douglas",
+					"wrongTwo": "Robert E. Lee",
+					"wrongThree": "Alexander Stephens",		
+					"answer": "Jefferson Davis"        
+				},
+				{
+					"id" : 22,
+					"category" : "Locations",
+					"question": "Which city was once known as New Amsterdam?",
+					"hint": "",
+					"wrongOne": "Richmond",
+					"wrongTwo": "Salem",
+					"wrongThree": "Philadelphia",		
+					"answer": "New York"        
+				},
+				{
+					"id" : 23,
+					"category" : "Government",
+					"question": "If both the President and Vice President of the United States were to die, who would be the next President?",
+					"hint": "",
+					"wrongOne": "Secretary of State",
+					"wrongTwo": "Chief of Staff of the President",
+					"wrongThree": "Senate Majority Leader",		
+					"answer": "Speaker of the House of Representatives"        
+				},
+				{
+					"id" : 24,
+					"category" : "Locations",
+					"question": "What is the tallest building in the United States?",
+					"hint": "",
+					"wrongOne": "World Trade Center",
+					"wrongTwo": "Trump Tower",
+					"wrongThree": "Empire State Building",		
+					"answer": "Sears Tower"        
+				},
+				{
+					"id" : 25,
+					"category" : "People",
+					"question": "Who was the woman that helped Lewis and Clark in their expedition?",
+					"hint": "",
+					"wrongOne": "Hillary Clinton",
+					"wrongTwo": "Amelia Earhart",
+					"wrongThree": "Pocahontas",		
+					"answer": "Sacagawea"        
+				},
+				{
+					"id" : 26,
+					"category" : "Government",
+					"question": "If both the President and Vice President of the United States were to die, who would be the next President?",
+					"hint": "",
+					"wrongOne": "Secretary of State",
+					"wrongTwo": "Chief of Staff of the President",
+					"wrongThree": "Senate Majority Leader",		
+					"answer": "Speaker of the House of Representatives"        
+				},
+				{
+					"id" : 27,
+					"category" : "History",
+					"question": "The Great Depression originated after the Wall Street Crash of 1929 also known as what?",
+					"hint": "",
+					"wrongOne": "Not So Super Tuesday",
+					"wrongTwo": "Super Tuesday",
+					"wrongThree": "Black Friday",		
+					"answer": "Black Tuesday"        
+				},
+				{
+					"id" : 28,
+					"category" : "Government",
+					"question": "Prohibition was instituted by which amendment?",
+					"hint": "",
+					"wrongOne": "20th Amendment",
+					"wrongTwo": "19th Amendment",
+					"wrongThree": "21st Amendment",		
+					"answer": "18th Amendment"        
+				},
+				{
+					"id" : 29,
+					"category" : "Government",
+					"question": "This amendment was one of the twelve original proposed amendments but failed to get ratified by enough votes, until 1992 when it garnered enough votes to get ratified after more than 202 years and it dealt with what?",
+					"hint": "",
+					"wrongOne": "Presidential term limits",
+					"wrongTwo": "Right to bear arms",
+					"wrongThree": "Freedom of speech",		
+					"answer": "Compensation for members of Congress"        
+				},
+				{
+					"id" : 30,
+					"category" : "Government",
+					"question": "The 26th Amendment made it so that a citizen's right to vote would not be denied because of age as long as that citizen was how many years old?",
+					"hint": "",
+					"wrongOne": "No age limit",
+					"wrongTwo": "16 years old",
+					"wrongThree": "21 years old",		
+					"answer": "18 years old"        
+				},
+				{
+					"id" : 31,
+					"category" : "Government",
+					"question": "Which of these non states has the right to vote in a presidential election as granted by the 23rd Amendment?",
+					"hint": "",
+					"wrongOne": "Virgin Islands",
+					"wrongTwo": "Guam",
+					"wrongThree": "Puerto Rico",		
+					"answer": "Washington D.C."        
+				},
+				{
+					"id" : 32,
+					"category" : "Government",
+					"question": "What was the landmark United States Supreme Court case which held that the fundamental right to marry was guaranteed to same-sex couples by the 14th Amendment?",
+					"hint": "",
+					"wrongOne": "Loving v. Virginia",
+					"wrongTwo": "Baker v. Nelson",
+					"wrongThree": "Bowers v. Hardwick",		
+					"answer": "Obergefell v. Hodges"        
+				},
+				{
+					"id" : 33,
+					"category" : "Government",
+					"question": "What was the landmark United States Supreme Court case which invalidated anti-miscegenation laws?",
+					"hint": "",
+					"wrongOne": "Obergefell v. Hodges",
+					"wrongTwo": "Naim v. Naim",
+					"wrongThree": "Pace v. Alabama",		
+					"answer": "Loving v. Virginia"        
+				},
+				{
+					"id" : 34,
+					"category" : "Government",
+					"question": "What was the landmark United States Supreme Court case which stated that a woman's decision to have an abortion was covered by the right to privacy under the 14th Amendment?",
+					"hint": "",
+					"wrongOne": "Obergefell v. Hodges",
+					"wrongTwo": "Loving v. Virginia",
+					"wrongThree": "United States v. Vuitch",		
+					"answer": "Roe v. Wade"        
+				},
+				{
+					"id" : 35,
+					"category" : "Government",
+					"question": "What was the landmark United States Supreme Court case that upheld racial segregation under the doctrine of separate but equal?",
+					"hint": "",
+					"wrongOne": "Dredd Scott v. Sandford",
+					"wrongTwo": "Loving v. Virginia",
+					"wrongThree": "Brown v. Board of Education",		
+					"answer": "Plessy v. Ferguson"        
+				},
+				{
+					"id" : 36,
+					"category" : "Government",
+					"question": "What was the landmark United States Supreme Court case that formed the basis for the exercise of judicial review under Article III of the Constitution, which says Congress can't pass laws that are contrary to the Constitution and that the Judicial system gets to interprets what the Constitution permits?",
+					"hint": "",
+					"wrongOne": "Calder v. Bull",
+					"wrongTwo": "Stuart v. Laird",
+					"wrongThree": "United States v. More",		
+					"answer": "Marbury v. Madison"        
+				},
+				{
+					"id" : 37,
+					"category" : "People",
+					"question": "Who became the Democratic Presidential nominee in 1968 by winning delegates in non-primary states?",
+					"hint": "",
+					"wrongOne": "Lyndon B. Johnson",
+					"wrongTwo": "Robert F. Kennedy",
+					"wrongThree": "Eugene McCarthy",		
+					"answer": "Hubert Humphrey"        
+				},
+				{
+					"id" : 38,
+					"category" : "People",
+					"question": "Which of the following was not Vice President to President Franklin D. Roosevelt?",
+					"hint": "",
+					"wrongOne": "John Nance Garner",
+					"wrongTwo": "Henry A. Wallace",
+					"wrongThree": "Harry S. Truman",		
+					"answer": "James F. Byrnes"        
+				},
+				{
+					"id" : 39,
+					"category" : "People",
+					"question": "Who authorized the establishment of NASA after the Soviet Union launched the world's first satellite?",
+					"hint": "",
+					"wrongOne": "Harry S. Truman",
+					"wrongTwo": "Richard M. Nixon",
+					"wrongThree": "John F. Kennedy",		
+					"answer": "Dwight D. Eisenhower"        
+				}
+			],
+	"medium":[
+				{
+					"id" : 0,
+					"category" : "History",
+					"question": "The annexation in 1845 of which state caused a chain of events that resulted in the Mexican-American war.",
+					"hint": "The Lone Star.",
+					"wrongOne": "Arizona",
+					"wrongTwo": "California",
+					"wrongThree": "New Mexico",		
+					"answer": "Texas"
+				},
+				{
+					"id" : 1,
+					"category" : "People",
+					"question": "Who was the first African-American President of the United States?",
+					"hint": "His campaign slogans were 'Hope' and 'Change'.",
+					"wrongOne": "George Washington Carver",
+					"wrongTwo": "Martin Luther King Jr.",
+					"wrongThree": "Frederick Douglas",		
+					"answer": "Barack Obama"	
+				},
+				{
+					"id" : 2,
+					"category" : "Locations",
+					"question": "What is the largest state in the Union?",
+					"hint": "The state originally belonged to Russia.",
+					"wrongOne": "Rhode Island",
+					"wrongTwo": "California",
+					"wrongThree": "Texas",		
+					"answer": "Alaska"			
+				},
+				{
+					"id" : 3,
+					"category" : "International Relations",
+					"question": "Which of the following is not a member of the United Nations Security Council?",
+					"hint": "All of the nations in the Security Council were Allies during the Second World War.",
+					"wrongOne": "Russia",
+					"wrongTwo": "China",
+					"wrongThree": "France",		
+					"answer": "Germany"	
+				},
+				{
+					"id" : 4,
+					"category" : "History",
+					"question": "After which war did the United States gain possession of Guam, the Philippines, and Puerto Rico?",
+					"hint": "Which empire did these colonies belong to?",
+					"wrongOne": "Mexican-American War",
+					"wrongTwo": "War of 1812",
+					"wrongThree": "Civil War",		
+					"answer": "Spanish-American War"	
+				},
+				{
+					"id" : 5,
+					"category" : "Locations",
+					"question": "Which was Abraham Lincoln's home state?",
+					"hint": "",
+					"wrongOne": "Pennsylvania",
+					"wrongTwo": "Arkansas",
+					"wrongThree": "Kentucky",		
+					"answer": "Illinois"	
+				},
+				{
+					"id" : 6,
+					"category" : "People",
+					"question": "Which congressman played a pivotal role in enacting the Missouri Compromise.",
+					"hint": "",
+					"wrongOne": "John C. Calhoun",
+					"wrongTwo": "Paul Ryan",
+					"wrongThree": "John Bohner",		
+					"answer": "Henry Clay"	
+				},
+				{
+					"id" : 7,
+					"category" : "History",
+					"question": "Which President signed the Indian Removal Act which resulted in the Trail of Tears?",
+					"hint": "He won a decisive victory in the Battle of New Orleans during the War of 1812.",
+					"wrongOne": "John Quincy Adams",
+					"wrongTwo": "James Madison",
+					"wrongThree": "James Monroe",		
+					"answer": "Andrew Jackson"	
+				},
+				{
+					"id" : 8,
+					"category" : "Government",
+					"question": "Which constitutional amendment effectively ended slavery in the United States?",
+					"hint": "",
+					"wrongOne": "First Amendment",
+					"wrongTwo": "Tenth Amendment",
+					"wrongThree": "Fourteenth Amendment",		
+					"answer": "Thirteenth Amendment"        
+				},
+				{
+					"id" : 9,
+					"category" : "People",
+					"question": "Who was the President of the United States during the Iran Hostage Crisis?",
+					"hint": "",
+					"wrongOne": "Richard Nixon",
+					"wrongTwo": "George Bush",
+					"wrongThree": "Ronald Reagan",		
+					"answer": "Jimmy Carter"        
+				},
+				{
+					"id" : 10,
+					"category" : "People",
+					"question": "Who was chosen as President as a result of the Compromise of 1877 which also required the removal of the U.S. military from former Confederate States?",
+					"hint": "",
+					"wrongOne": "William McKinley",
+					"wrongTwo": "Samuel J. Tilden",
+					"wrongThree": "Ulysses Grant",		
+					"answer": "Rutherford B. Hayes"        
+				},
+				{
+					"id" : 11,
+					"category" : "People",
+					"question": "Whose face is not featured in Mount Rushmore National Memorial",
+					"hint": "",
+					"wrongOne": "George Washington",
+					"wrongTwo": "Theodore Roosevelt",
+					"wrongThree": "Abraham Lincoln",		
+					"answer": "Franklin Roosevelt"        
+				},
+				{
+					"id" : 12,
+					"category" : "International Relations",
+					"question": "In order to build the Panama Canal, the United States helped Panama gain independence from which country?",
+					"hint": "",
+					"wrongOne": "Chile",
+					"wrongTwo": "Venezuela",
+					"wrongThree": "Nicaragua",		
+					"answer":"Colombia"        
+				},
+                {
+					"id" : 13,
+					"category" : "International Relations",
+					"question": "What is the name of a large military campaign launched on Vietnamese New Year against the South Vietnamese and United States?",
+					"hint": "",
+					"wrongOne": "Rouge Retribution",
+					"wrongTwo": "Vietnamese Counterattack",
+					"wrongThree": "Laos Offensive",		
+					"answer":"Tet Offensive"        
+				},
+                {
+					"id" : 14,
+					"category" : "International Relations",
+					"question": "What is a common name for the plan that gave aid to European countries following World War II?",
+					"hint": "",
+					"wrongOne": "European Plan",
+					"wrongTwo": "Sears Plan",
+					"wrongThree": "Macys Plan",		
+					"answer":"Marshall Plan"        
+				},
+                {
+					"id" : 15,
+					"category" : "People",
+					"question": "Which were the main parties during the Second Party System period from 1830s to the mid-1850s?",
+					"hint": "",
+					"wrongOne": "Federalist Party and Anti-Federalist Party",
+					"wrongTwo": "Democratic Party and Grand Old Party",
+					"wrongThree": "Democratic Party and Republican Party",		
+					"answer":"Democratic Party and Whig Party"        
+				},
+                {
+					"id" : 16,
+					"category" : "People",
+					"question": "Who was the first Democratic President?",
+					"hint": "",
+					"wrongOne": "Hillary Clinton",
+					"wrongTwo": "Thomas Jefferson",
+					"wrongThree": "Martin van Buren",		
+					"answer":"Andrew Jackson"        
+				},
+                {
+					"id" : 17,
+					"category" : "People",
+					"question": "Who was the first Republican President?",
+					"hint": "",
+					"wrongOne": "Donald J. Trump",
+					"wrongTwo": "Henry Clay",
+					"wrongThree": "Horace Greely",		
+					"answer":"Abraham Lincoln"        
+				},
+                {
+					"id" : 18,
+					"category" : "Government",
+					"question": "Which was the first American political party?",
+					"hint": "",
+					"wrongOne": "Whig Party",
+					"wrongTwo": "Republican Party",
+					"wrongThree": "Democratic Party",		
+					"answer":"Federalist Party"        
+				},
+                {
+					"id" : 19,
+					"category" : "People",
+					"question": "What Justice's opinion lay as basis for United States constitutional law, which made the judicial branch coequal to the executive and legislative branches?",
+					"hint": "",
+					"wrongOne": "John Jay",
+					"wrongTwo": "Rudith Bayer Ginsburg",
+					"wrongThree": "Antonin Scalia",		
+					"answer":"John Marshall"        
+				},
+                {
+					"id" : 20,
+					"category" : "History",
+					"question": "What term was used to characterize reform-minded American journalists?",
+					"hint": "",
+					"wrongOne": "Steffbrakers",
+					"wrongTwo": "Lollygaggers",
+					"wrongThree": "Gobbeloppers",		
+					"answer":"Muckrakers"        
+				},
+                {
+					"id" : 21,
+					"category" : "History",
+					"question": "The sinking of which shipped helped shift the American public opinion against Germany?",
+					"hint": "",
+					"wrongOne": "Mauretania",
+					"wrongTwo": "Maine",
+					"wrongThree": "Titanic",		
+					"answer":"Lusitania"        
+				},
+                {
+					"id" : 22,
+					"category" : "People",
+					"question": "Who is not one of the most famous writers who was from the Lost Generation?",
+					"hint": "",
+					"wrongOne": "Ernest Hemingway",
+					"wrongTwo": "James Joyce",
+					"wrongThree": "F. Scott Fitzgerald",		
+					"answer":"Gore Vidal"        
+				},
+                {
+					"id" : 23,
+					"category" : "History",
+					"question": "Which term stands for the easing of strained relations?",
+					"hint": "",
+					"wrongOne": "Perestroika",
+					"wrongTwo": "Glasnost",
+					"wrongThree": "Rapprochement",		
+					"answer":"Détente"        
+				},
+                {
+					"id" : 24,
+					"category" : "Government",
+					"question": "Which term stands for the executive committee for a number of political parties?",
+					"hint": "",
+					"wrongOne": "Realpolitik",
+					"wrongTwo": "Politas",
+					"wrongThree": "Politico",		
+					"answer":"Politburo"        
+				},
+                {
+					"id" : 25,
+					"category" : "People",
+					"question": "What President is famous for a story of him cutting a cherry tree?",
+					"hint": "",
+					"wrongOne": "George Bush",
+					"wrongTwo": "Abraham Lincoln",
+					"wrongThree": "Thomas Jefferson",		
+					"answer":"George Washington"        
+				},
+                {
+					"id" : 26,
+					"category" : "People",
+					"question": "Who authored the Declaration of Independence?",
+					"hint": "",
+					"wrongOne": "John Adams",
+					"wrongTwo": "George Washington",
+					"wrongThree": "James Madison",		
+					"answer":"Thomas Jefferson"        
+				},
+                {
+					"id" : 27,
+					"category" : "People",
+					"question": "Who was the first Catholic to become President?",
+					"hint": "",
+					"wrongOne": "Richard Nixon",
+					"wrongTwo": "Jimmy Carter",
+					"wrongThree": "Bill Clinton",		
+					"answer":"John F. Kennedy"        
+				},
+                {
+					"id" : 28,
+					"category" : "People",
+					"question": "Who was the famous traitor during the American Revolutionary War?",
+					"hint": "",
+					"wrongOne": "Alexander Hamilton",
+					"wrongTwo": "George Washington",
+					"wrongThree": "Paul Revere",		
+					"answer":"Benedict Arnold"        
+				}
+			],
+	"hard":[
+				{
+					"id" : 0,
+					"category" : "Government",
+					"question": "What is a common name for a legislation passed in the 1930s which separated commercial and investment banking?",
+					"hint": "",
+					"wrongOne": "Volcker Act",
+					"wrongTwo": "Gramm-Leach-Bliley Act",
+					"wrongThree": "Dodd-Frank Act",		
+					"answer": "Glass-Steagall Act"
+				},
+				{
+					"id" : 1,
+					"category" : "People",
+					"question": "Who was the first Secretary of the Treasury?",
+					"hint": "He is featured in the $10 bill.",
+					"wrongOne": "John Quincy Adams",
+					"wrongTwo": "Thomas Jefferson",
+					"wrongThree": "Aaron Burr",		
+					"answer": "Alexander Hamilton"	
+				},
+				{
+					"id" : 2,
+					"category" : "People",
+					"question": "Who was the third Vice President of the United States, and also fought Alexander Hamilton in a deadly duel?",
+					"hint": "",
+					"wrongOne": "Benjamin Franklin",
+					"wrongTwo": "George Clinton",
+					"wrongThree": "Thomas Jefferson",		
+					"answer": "Aaron Burr"			
+				},
+				{
+					"id" : 3,
+					"category" : "Government",
+					"question": "What is the practice in which political parties in power give government jobs to their supporters?",
+					"hint": "",
+					"wrongOne": "Earned system",
+					"wrongTwo": "Meritocracy",
+					"wrongThree": "Favorites system",		
+					"answer": "Spoils system"	
+				},
+				{
+					"id" : 4,
+					"category" : "History",
+					"question": "What is the name of the accord which effectively ended the American Revolutionary War in 1783?",
+					"hint": "",
+					"wrongOne": "Treaty of Seville",
+					"wrongTwo": "Treaty of Versaille",
+					"wrongThree": "Treaty of Ghent",		
+					"answer": "Treaty of Paris"	
+				},
+				{
+					"id" : 5,
+					"category" : "People",
+					"question": "Who was the first Postmaster General of the United States of America?",
+					"hint": "He is featured on the $100 dollar bill.",
+					"wrongOne": "John Adams",
+					"wrongTwo": "Alexander Hamilton",
+					"wrongThree": "Aaron Burr",		
+					"answer": "Benjamin Franklin"	
+				},
+				{
+					"id" : 6,
+					"category" : "People",
+					"question": "Which President signed the Alien and Sedition Acts during a period of tension with the French.",
+					"hint": "He served as the first Vice President and later as the second President.",
+					"wrongOne": "George Washington",
+					"wrongTwo": "Andrew Jackson",
+					"wrongThree": "Thomas Jefferson",		
+					"answer": "John Adams"	
+				},
+				{
+					"id" : 7,
+					"category" : "History",
+					"question": "What is the name of the undeclared war, fought mostly at sea, between the United States and the French Republic over a debt controversy.",
+					"hint": "",
+					"wrongOne": "Barbary War",
+					"wrongTwo": "Republican War",
+					"wrongThree": "French-American War",		
+					"answer": "Quasi-War"	
+				},
+				{
+					"id" : 8,
+					"category" : "History",
+					"question": "Which were the four states that compromised the Barbary States which fought against the United States in the Barbary Wars?",
+					"hint": "They're on the first screen of this app!",
+					"wrongOne": "Afghanistan, Libya,Morocco, and Syria",
+					"wrongTwo": "Morocco, Libya, Sicily, and Tunis",
+					"wrongThree": "Algiers, Libya, Morocco, and Egypt",		
+					"answer": "Algiers, Morocco, Tripoli, and Tunis"        
+				},
+				{
+					"id" : 9,
+					"category" : "History",
+					"question": "In which year was the Coinage Act signed into law, which discontinued the standard silver dollar and established the gold dollar as the sole monetary standard?",
+					"hint": "",
+					"wrongOne": "1769",
+					"wrongTwo": "1974",
+					"wrongThree": "1869",		
+					"answer": "1873"        
+				},
+				{
+					"id" : 10,
+					"category" : "History",
+					"question": "What is the name of the diplomatic dispute that happened during the Ten Year's War between Spain and Cuba and almost lead to a war between Spain and  the United States?",
+					"hint": "",
+					"wrongOne": "Cuban Missile Crisis",
+					"wrongTwo": "Spanish Affair",
+					"wrongThree": "Maine Affair",		
+					"answer": "Virginius Affair"        
+				},
+				{
+					"id" : 11,
+					"category" : "History",
+					"question": "What congressional committee was involved with uncovering citizens with Nazi ties and later Communist Party infiltrations?",
+					"hint": "",
+					"wrongOne": "House American Activities Committee",
+					"wrongTwo": "House Socialist Activities Committee",
+					"wrongThree": "House Nazi Activities Committee",		
+					"answer": "House Un-American Activities Committee"        
+				},
+				{
+					"id" : 12,
+					"category" : "History",
+					"question": "Covert operations which targeted domestic political organizations like the Black Panthers occurred under which program?",
+					"hint": "",
+					"wrongOne": "Prism",
+					"wrongTwo": "Contra Program",
+					"wrongThree": "Hoover Program",		
+					"answer": "COINTELPRO"        
+				},
+				{
+					"id" : 13,
+					"category" : "People",
+					"question": "Which vice presidential contender gave the famous Checkers speech after being accused of improprieties relating to a political fund?",
+					"hint": "",
+					"wrongOne": "Joe Biden",
+					"wrongTwo": "Al Gore",
+					"wrongThree": "George H. W. Bush",		
+					"answer": "Richard Nixon"        
+				},
+				{
+					"id" : 14,
+					"category" : "People",
+					"question": "Who was the President of the United States during the Mexican-American War?",
+					"hint": "",
+					"wrongOne": "James Monroe",
+					"wrongTwo": "Andrew Jackson",
+					"wrongThree": "Zachary Taylor",		
+					"answer": "James K. Polk"        
+				},
+				{
+					"id" : 15,
+					"category" : "People",
+					"question": "Which of following figures of the Civil Rights Movement was born in Alabama?",
+					"hint": "",
+					"wrongOne": "Martin Luther King Jr.",
+					"wrongTwo": "Malcolm X",
+					"wrongThree": "James Farmer",		
+					"answer": "Rosa Parks"        
+				}
+			]
+}

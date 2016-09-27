@@ -1,0 +1,20 @@
+<ion-view view-title="Account">
+  <ion-content>	
+	  <section class="profile">
+		<img src="{{profileImg}}" alt="{{profileImg}}"/>
+		<h3 class="user">{{user}}</h3>
+		<p><span>{{party}}</span> {{candidate}}  <span id="win-mark" class=""></span></p>		
+	  </section>	  
+	  <ion-item>Delegates <span class="stateScore">{{delegates}} / 270</span></ion-item>
+	  <section id="stats"> 
+		  <h4 class="padding">State Vote Percentage</h4>
+		  <ion-list>
+			 <ion-item ng-repeat="state in data.states">{{state.name}} <span class="stateScore">{{state.score}}%</span></ion-item> 			 
+		  </ion-list>
+	  </section>
+	  <button ng-click="reset()" class="button button-full button-party">Reset</button>
+	  <footer>
+	  	<p>&copy; Erick Sauri 2016</p>
+	  </footer>
+  </ion-content>
+</ion-view>

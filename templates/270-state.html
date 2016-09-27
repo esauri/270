@@ -1,0 +1,30 @@
+<!--
+	Make hide-nav-bar false because otherwise either the back button
+	doesn't appear, or the tab bar is invisible 
+
+don't need it now ??
+
+back button appears and disappears when reloading page
+-->
+<ion-view view-title="{{state.name}}">
+  <ion-content>
+	  <header id="score-header">
+		<div>
+		  <span>{{data.states[state.num].score}}</span>	
+		  <span class="{{playerMarker}}"></span>
+		</div>
+		<div>
+		  <span>{{data.states[state.num].rivalScore}}</span>	
+		  <span class="{{rivalMarker}}"></span>
+		</div>
+	  </header>
+	  <!-- .trivia-cards(container)-->
+	  <section class="trivia-cards">
+		  <!-- Trivia card -->
+		  <article ng-repeat="card in data[state.id]" class="card trivia-card {{card.width}}" ng-click="setCard({{card}}, $event)">
+			  <!-- have to change href so that the state name isn't hard coded {{card.id}}-->
+			  	<h1>{{card.points}}</h1>
+		  </article>
+	  </section><!-- End of .trivia-cards(container)-->
+  </ion-content>
+</ion-view>

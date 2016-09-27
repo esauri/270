@@ -1,0 +1,33 @@
+<!-- Hide the top bar -->
+<ion-view  title="270" hide-nav-bar="true" can-swipe-back="false">
+  <ion-content>
+	 
+	<header id="big-header">
+		<section class="padding">
+			<span id="party">{{party}}</span>
+			<span class="right" id="delegates">{{delegates}} / {{appName}}</span>
+			<h1>{{appName}}</h1>
+		</section>
+	</header>
+      <!-- States-Wrapper -->
+	 <section class="card" id="congratulations">
+		<img src="img/White-House.png">
+		<h3>Congratulations!</h3>
+		<h4>You will be the next President of the United States of America!</h4>  
+		<button class="button-full" ng-click="closeCongrats($event)">Continue</button>
+	  </section>
+      <section id="states-wrapper">
+          <!-- State Card -->
+		  <article class="card" ng-repeat="state in data.states" id="{{state.id}}">
+                <a class="item" href="#/270/states/{{state.id}}" ng-click="setState({{state}})">
+                    <p class="right state-del-number">{{state.delegates}}</p>
+                   <i class="mg {{state.icon}}"></i>
+                    <h2>{{state.name}}</h2>
+                </a>              
+          </article>		  
+      </section><!--end of #states-wrapper-->     
+	  <footer>
+	  	<p>&copy; Erick Sauri 2016</p>
+	  </footer>
+  </ion-content>
+</ion-view>
